@@ -1,1 +1,2 @@
 In a quiet town by the sea, Tichy, a programmer with a fondness for speculoos cookies, wrestled with his chaotic codebase. Bugs crept up everywhere, and Tichy was on the verge of giving up when a friendly tool named Git appeared.
+"Let me help!" Git offered. "Save each change with a commit. It'll be like keeping a timeline of your code."
