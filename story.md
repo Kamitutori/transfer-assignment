@@ -1,3 +1,3 @@
-In a quiet town by the sea, a programmer with a fondness for speculoos cookies, wrestled with his chaotic codebase. Bugs crept up everywhere, and the programmer was on the verge of giving up when a friendly tool named Git appeared.
+In a quiet town by the sea, a programmer with a fondness for christmas cookies, wrestled with his chaotic code. Bugs crept up everywhere, and the programmer was on the verge of giving up when a friendly tool named Git appeared.
 "Let me help!" Git offered. "Save each change with a commit. It'll be like keeping a timeline of your code."
 Intrigued, the programmer gave it a shot. Git showed him how to branch off, experiment, and come back whenever he wanted—no risk, just endless possibilities. By the end, the programmer’s project was organized and bug-free, with Git as his trusted guide.
